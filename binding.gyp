@@ -45,8 +45,8 @@
                 }],
             ],
             'variables': {
-                'redist_bin_dir': 'osx32',
-                'public_lib_dir': 'osx32',
+                'redist_bin_dir': 'osx',
+                'public_lib_dir': 'osx',
                 'lib_steam': 'libsteam_api.dylib',
                 'lib_encryptedappticket': 'libsdkencryptedappticket.dylib',
             },
